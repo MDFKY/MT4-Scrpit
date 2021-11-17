@@ -1,2 +1,2 @@
 # MT4-Scrpit
-ANZO-UPDOWNRANGE
+ANZO-UpDownRange
